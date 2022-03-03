@@ -82,11 +82,11 @@ python mfg.py --reid_method nn --split 32 --spatial 0.1 --temporal 0.1
 
 Extensive experiments on a six-camera dataset demonstrate that, with the help of our dynamic correlation models, the overall workload can be reduced by 36% in general. For queries with a large search space, the tracking cost can be reduced by 40$\times$ with 6% precision improvement.
 
-<img src="/Users/chenkaiyang/Library/Application Support/typora-user-images/截屏2022-03-03 下午11.48.25.png" alt="截屏2022-03-03 下午11.48.25" style="zoom:30%;" />
+<img src="./compare_method.png" alt="截屏2022-03-03 下午11.48.25" style="zoom:30%;" />
 
-<img src="/Users/chenkaiyang/Library/Application Support/typora-user-images/截屏2022-03-03 下午11.48.49.png" alt="截屏2022-03-03 下午11.48.49" style="zoom:30%;" />
+<img src="./compare_large.png" alt="截屏2022-03-03 下午11.48.49" style="zoom:35%;" />
 
-<img src="/Users/chenkaiyang/Library/Application Support/typora-user-images/截屏2022-03-03 下午11.49.03.png" alt="截屏2022-03-03 下午11.49.03" style="zoom:30%;" />
+<img src="./range.png" alt="截屏2022-03-03 下午11.49.03" style="zoom:30%;" />
 
 ### Demonstration
 
